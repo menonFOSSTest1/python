@@ -1,0 +1,47 @@
+
+# Python3 program to add two numbers 
+  
+num1 = 15
+num2 = 12
+  
+# Adding two nos 
+sum = num1 + num2 
+  
+# printing values 
+print("Sum of {0} and {1} is {2}" .format(num1, num2, sum)) 
+
+
+
+# Python 3 program to find  
+# factorial of given number 
+def factorial(n): 
+      
+    # single line to find factorial 
+    return 1 if (n==1 or n==0) else n * factorial(n - 1);  
+  
+# Driver Code 
+num = 5; 
+print("Factorial of",num,"is", 
+factorial(num)) 
+  
+# This code is contributed by Smitha Dinesh Semwal 
+
+
+
+# Python3 program to find simple interest 
+# for given principal amount, time and 
+# rate of interest. 
+  
+# We can change values here for 
+# different inputs 
+P = 1 
+R = 1 
+T = 1 
+  
+# Calculates simple interest  
+SI = (P * R * T) / 100
+  
+# Print the resultant value of SI  
+print("simple interest is", SI) 
+   
+# This code is contributed by Azkia Anam. 
