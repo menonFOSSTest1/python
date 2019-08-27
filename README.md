@@ -1,2 +1,2 @@
 # python
-some program of python
+some easy program of python
