@@ -1,2 +1,2 @@
 # python
-sum program of python
+some program of python
